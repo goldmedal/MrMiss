@@ -103,3 +103,6 @@ C:\Users\Jax\Desktop\main\WindowsFormsApplication3\bin\Debug\Weapon.pdb
 C:\Users\Jax\Desktop\Mr. Miss\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
 C:\Users\Jax\Desktop\Mr. Miss\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
 C:\Users\Jax\Desktop\Mr. Miss\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+D:\git\MrMiss\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+D:\git\MrMiss\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+D:\git\MrMiss\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb

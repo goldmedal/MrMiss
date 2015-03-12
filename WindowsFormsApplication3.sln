@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Miss", "Miss\Miss\Miss.cspr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weapon", "Weapon\Weapon\Weapon\Weapon.csproj", "{68BAEB19-D092-4B4D-94A2-C8C6112184AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeaponTests1", "WeaponTests1\WeaponTests1.csproj", "{BE0B14F4-AF87-483B-BF20-E116B4296E5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +51,16 @@ Global
 		{68BAEB19-D092-4B4D-94A2-C8C6112184AA}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{68BAEB19-D092-4B4D-94A2-C8C6112184AA}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{68BAEB19-D092-4B4D-94A2-C8C6112184AA}.Release|x86.ActiveCfg = Release|Any CPU
+		{BE0B14F4-AF87-483B-BF20-E116B4296E5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE0B14F4-AF87-483B-BF20-E116B4296E5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE0B14F4-AF87-483B-BF20-E116B4296E5D}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{BE0B14F4-AF87-483B-BF20-E116B4296E5D}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{BE0B14F4-AF87-483B-BF20-E116B4296E5D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BE0B14F4-AF87-483B-BF20-E116B4296E5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE0B14F4-AF87-483B-BF20-E116B4296E5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE0B14F4-AF87-483B-BF20-E116B4296E5D}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{BE0B14F4-AF87-483B-BF20-E116B4296E5D}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{BE0B14F4-AF87-483B-BF20-E116B4296E5D}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

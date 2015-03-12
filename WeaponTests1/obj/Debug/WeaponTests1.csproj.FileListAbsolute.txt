@@ -1,0 +1,9 @@
+D:\git\MrMiss\WeaponTests1\obj\Debug\WeaponTests1.csprojResolveAssemblyReference.cache
+D:\git\MrMiss\WeaponTests1\bin\Debug\WeaponTests1.dll
+D:\git\MrMiss\WeaponTests1\bin\Debug\WeaponTests1.pdb
+D:\git\MrMiss\WeaponTests1\bin\Debug\Weapon.dll
+D:\git\MrMiss\WeaponTests1\bin\Debug\Weapon.pdb
+D:\git\MrMiss\WeaponTests1\obj\Debug\WeaponTests1.dll
+D:\git\MrMiss\WeaponTests1\obj\Debug\WeaponTests1.pdb
+D:\git\MrMiss\WeaponTests1\bin\Debug\WeaponTests1.dll.CodeAnalysisLog.xml
+D:\git\MrMiss\WeaponTests1\bin\Debug\WeaponTests1.dll.lastcodeanalysissucceeded
