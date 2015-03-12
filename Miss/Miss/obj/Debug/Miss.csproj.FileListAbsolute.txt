@@ -1,0 +1,9 @@
+C:\Users\Liugs\Desktop\Miss\Miss\bin\Debug\Miss.dll
+C:\Users\Liugs\Desktop\Miss\Miss\bin\Debug\Miss.pdb
+C:\Users\Liugs\Desktop\Miss\Miss\obj\Debug\Miss.dll
+C:\Users\Liugs\Desktop\Miss\Miss\obj\Debug\Miss.pdb
+C:\Users\Jax\Desktop\main\Miss\Miss\bin\Debug\Miss.dll
+C:\Users\Jax\Desktop\main\Miss\Miss\bin\Debug\Miss.pdb
+C:\Users\Jax\Desktop\main\Miss\Miss\obj\Debug\Miss.csprojResolveAssemblyReference.cache
+C:\Users\Jax\Desktop\main\Miss\Miss\obj\Debug\Miss.dll
+C:\Users\Jax\Desktop\main\Miss\Miss\obj\Debug\Miss.pdb

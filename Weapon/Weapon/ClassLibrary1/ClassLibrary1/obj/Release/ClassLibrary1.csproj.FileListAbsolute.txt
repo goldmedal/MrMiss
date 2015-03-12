@@ -1,0 +1,4 @@
+C:\Users\Liugs\Desktop\Weapon\ClassLibrary1\ClassLibrary1\bin\Release\ClassLibrary1.dll
+C:\Users\Liugs\Desktop\Weapon\ClassLibrary1\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+C:\Users\Liugs\Desktop\Weapon\ClassLibrary1\ClassLibrary1\obj\Release\ClassLibrary1.dll
+C:\Users\Liugs\Desktop\Weapon\ClassLibrary1\ClassLibrary1\obj\Release\ClassLibrary1.pdb

@@ -1,0 +1,4 @@
+C:\Users\Liugs\AppData\Local\Temporary Projects\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Liugs\AppData\Local\Temporary Projects\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Liugs\AppData\Local\Temporary Projects\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Liugs\AppData\Local\Temporary Projects\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

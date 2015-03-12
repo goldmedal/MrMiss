@@ -1,0 +1,10 @@
+C:\Users\Liugs\Desktop\Weapon\Weapon\Weapon\bin\Debug\Weapon.dll
+C:\Users\Liugs\Desktop\Weapon\Weapon\Weapon\bin\Debug\Weapon.pdb
+C:\Users\Liugs\Desktop\Weapon\Weapon\Weapon\obj\Debug\Weapon.dll
+C:\Users\Liugs\Desktop\Weapon\Weapon\Weapon\obj\Debug\Weapon.pdb
+C:\Users\Liugs\Desktop\Weapon\Weapon\Weapon\obj\Debug\Weapon.csprojResolveAssemblyReference.cache
+C:\Users\Jax\Desktop\main\Weapon\Weapon\Weapon\bin\Debug\Weapon.dll
+C:\Users\Jax\Desktop\main\Weapon\Weapon\Weapon\bin\Debug\Weapon.pdb
+C:\Users\Jax\Desktop\main\Weapon\Weapon\Weapon\obj\Debug\Weapon.csprojResolveAssemblyReference.cache
+C:\Users\Jax\Desktop\main\Weapon\Weapon\Weapon\obj\Debug\Weapon.dll
+C:\Users\Jax\Desktop\main\Weapon\Weapon\Weapon\obj\Debug\Weapon.pdb

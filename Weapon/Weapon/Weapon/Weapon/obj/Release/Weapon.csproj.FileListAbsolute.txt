@@ -1,0 +1,4 @@
+C:\Users\Liugs\Desktop\Weapon\Weapon\Weapon\bin\Release\Weapon.dll
+C:\Users\Liugs\Desktop\Weapon\Weapon\Weapon\bin\Release\Weapon.pdb
+C:\Users\Liugs\Desktop\Weapon\Weapon\Weapon\obj\Release\Weapon.dll
+C:\Users\Liugs\Desktop\Weapon\Weapon\Weapon\obj\Release\Weapon.pdb
