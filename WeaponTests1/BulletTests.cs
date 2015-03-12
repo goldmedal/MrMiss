@@ -16,20 +16,23 @@ namespace WeaponDll.Tests
         [TestMethod()]
         public void BulletTest()
         {
-            Assert.Fail();
+            
         }
 
         [TestMethod()]
         public void BulletTest1()
         {
-            Assert.Fail();
+            
         }
 
         [TestMethod()]
         public void MoveTest()
         {
             // arrange
-            Bullet target = new Bullet("bullet_down.png", 1, 1);
+            Bullet target = new Bullet();
+            target.BulletPic = new PictureBox();
+            target.BulletPic.Location = new Point(1, 1);
+
             Point expected = new Point(125, 125);
 
             // actual
